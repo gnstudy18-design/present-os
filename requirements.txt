@@ -1,7 +1,6 @@
-streamlit
-speechrecognition
+streamlit==1.39.0
 requests
 beautifulsoup4
-smtplib
-email-validator
 openai
+email-validator
+python-dotenv

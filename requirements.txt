@@ -1,0 +1,7 @@
+streamlit
+speechrecognition
+requests
+beautifulsoup4
+smtplib
+email-validator
+openai
